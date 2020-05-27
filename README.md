@@ -2,7 +2,7 @@
 
 **Aim:** Find squares in an image
 
-## To compile and run
+## 必须在安装好OPencv，直接运行以下命令
 
     > cmake .  
     > make
